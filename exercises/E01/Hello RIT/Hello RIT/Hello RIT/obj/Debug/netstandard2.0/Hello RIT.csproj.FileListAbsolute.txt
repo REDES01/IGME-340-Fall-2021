@@ -1,0 +1,15 @@
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\Hello RIT.deps.json
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\Hello RIT.dll
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\ref\Hello RIT.dll
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\bin\Debug\netstandard2.0\Hello RIT.pdb
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.csproj.AssemblyReference.cache
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.GeneratedMSBuildEditorConfig.editorconfig
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.AssemblyInfoInputs.cache
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.AssemblyInfo.cs
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.csproj.CoreCompileInputs.cache
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\XamlC.stamp
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.dll
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\ref\Hello RIT.dll
+F:\340\exercises\E01\Hello RIT\Hello RIT\Hello RIT\obj\Debug\netstandard2.0\Hello RIT.pdb
