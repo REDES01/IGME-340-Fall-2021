@@ -35,6 +35,25 @@ namespace Hello_RIT
             nameLabel.VerticalOptions = LayoutOptions.EndAndExpand;
             nameLabel.Margin = new Thickness(0, 0, 0, 50);
             mainStack.Children.Add(nameLabel);
+
+
+            var tapGestureRecognizer = new TapGestureRecognizer();
+
+            tapGestureRecognizer.Tapped += async (s, e) => {
+
+                await topLabel.TranslateTo(100, 500, 1000, Easing.BounceOut);
+
+            };
+
+            tapGestureRecognizer.Tapped += async (s, e) => {
+                await nameLabel.ScaleTo(2.0, 200, Easing.BounceIn);
+
+            };
+            tapGestureRecognizer.Tapped += async (s, e) => {
+                await bottomLabel.RotateTo(200);
+
+            };
+            mainStack.GestureRecognizers.Add(tapGestureRecognizer);
         }
     }
 }
