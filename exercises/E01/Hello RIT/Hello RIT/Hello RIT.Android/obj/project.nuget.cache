@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "X+PuQzuTQ0Jk/1uIrbCr5ms+IwcchBmoYVyobDSvP0FltjjOlxCtaanL6+ontMbBE8atBk2LQs1OJSroiJUzJA==",
+  "dgSpecHash": "rB8Tl3FSDU7bprl0j5o426aKuKa/E+Vibm6eEZ2gqygw14+UXFpWtMoNVc+gnSPbJ+o5ZnyKE/DAr91j3jPGoQ==",
   "success": true,
   "projectFilePath": "F:\\340\\exercises\\E01\\Hello RIT\\Hello RIT\\Hello RIT.Android\\Hello RIT.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\47659\\.nuget\\packages\\microsoft.appcenter\\4.3.0\\microsoft.appcenter.4.3.0.nupkg.sha512",
+    "C:\\Users\\47659\\.nuget\\packages\\microsoft.appcenter.analytics\\4.3.0\\microsoft.appcenter.analytics.4.3.0.nupkg.sha512",
+    "C:\\Users\\47659\\.nuget\\packages\\microsoft.appcenter.crashes\\4.3.0\\microsoft.appcenter.crashes.4.3.0.nupkg.sha512",
     "C:\\Users\\47659\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",

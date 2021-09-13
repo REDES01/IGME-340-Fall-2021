@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "51m7fZDM9HHaD4c4cQ0eW4hnt9DjWplPInTylxW91uj2t1XHwnF4c4Gu7OwZoT36a5XA5qQn2xntOhlKTnFEHA==",
+  "dgSpecHash": "2j5VUn9iYA0SYcR+KInSMTEZVZc5kL2xR17Ad78GstZcpUMpo0yQyX33N4qygQWiIiH1YiSSuKARsO5h+99Rag==",
   "success": true,
   "projectFilePath": "F:\\340\\exercises\\E01\\Hello RIT\\Hello RIT\\Hello RIT\\Hello RIT.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\47659\\.nuget\\packages\\microsoft.appcenter\\4.3.0\\microsoft.appcenter.4.3.0.nupkg.sha512",
+    "C:\\Users\\47659\\.nuget\\packages\\microsoft.appcenter.analytics\\4.3.0\\microsoft.appcenter.analytics.4.3.0.nupkg.sha512",
+    "C:\\Users\\47659\\.nuget\\packages\\microsoft.appcenter.crashes\\4.3.0\\microsoft.appcenter.crashes.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\47659\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

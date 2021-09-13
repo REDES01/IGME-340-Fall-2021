@@ -86,3 +86,9 @@ androidx.asynclayoutinflater.asynclayoutinflater.aar
 androidx.legacy.legacy-support-core-ui.aar
 androidx.legacy.legacy-support-v4.aar
 androidx.browser.browser.aar
+Microsoft.AppCenter.Analytics.Android.Bindings.dll
+Microsoft.AppCenter.Analytics.dll
+Microsoft.AppCenter.Android.Bindings.dll
+Microsoft.AppCenter.dll
+Microsoft.AppCenter.Crashes.Android.Bindings.dll
+Microsoft.AppCenter.Crashes.dll

@@ -4,6 +4,9 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace Hello_RIT.iOS
 {
@@ -24,6 +27,8 @@ namespace Hello_RIT.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
+            AppCenter.Start("9dc667b8-7910-4b5d-b2ed-95a3edadbc1c",
+                   typeof(Analytics), typeof(Crashes));
 
             return base.FinishedLaunching(app, options);
         }

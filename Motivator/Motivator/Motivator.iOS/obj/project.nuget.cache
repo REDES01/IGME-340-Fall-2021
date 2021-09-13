@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+zO6TobvlmPmI1YRS6TarT8ZSWMXtxGG7V1uS7KKHamiRhIj40jVy9+o4xsgjGIPudqCyIe0shyKW8SWktbWA==",
+  "success": true,
+  "projectFilePath": "F:\\340\\Motivator\\Motivator\\Motivator.iOS\\Motivator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\47659\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\47659\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\47659\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

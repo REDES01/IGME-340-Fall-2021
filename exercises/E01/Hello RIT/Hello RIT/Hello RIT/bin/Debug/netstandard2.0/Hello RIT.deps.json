@@ -9,12 +9,44 @@
     ".NETStandard,Version=v2.0/": {
       "Hello RIT/1.0.0": {
         "dependencies": {
+          "Microsoft.AppCenter.Analytics": "4.3.0",
+          "Microsoft.AppCenter.Crashes": "4.3.0",
           "NETStandard.Library": "2.0.3",
           "Xamarin.Essentials": "1.6.1",
           "Xamarin.Forms": "5.0.0.2012"
         },
         "runtime": {
           "Hello RIT.dll": {}
+        }
+      },
+      "Microsoft.AppCenter/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Analytics/4.3.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Crashes/4.3.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.3.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -65,6 +97,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.AppCenter/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J33wRTFM5h0bx+UyVRGiyluPlVzLqAzH/x5wW2TkgWutzJzxEgB2FNqOH4Gs99aTF0PyhUWHSzqWYhCFv+WzHQ==",
+      "path": "microsoft.appcenter/4.3.0",
+      "hashPath": "microsoft.appcenter.4.3.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Analytics/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o7U7mb7jdSkSeDXWT8AKDtJH+5ot8CqNOClQmVDCdTmagVrM/WXZXQXe3Y2tK8HtkWIj7qjfYBLSZKpteJAp4g==",
+      "path": "microsoft.appcenter.analytics/4.3.0",
+      "hashPath": "microsoft.appcenter.analytics.4.3.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Crashes/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hiRw2wZF+fI9qmtC4LTfU52hjE7q07HgE3owvlmRif9SXsIjX9v8vzY99aCQ+92Ej52XB1eswTOl9SnjAWzzKQ==",
+      "path": "microsoft.appcenter.crashes/4.3.0",
+      "hashPath": "microsoft.appcenter.crashes.4.3.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

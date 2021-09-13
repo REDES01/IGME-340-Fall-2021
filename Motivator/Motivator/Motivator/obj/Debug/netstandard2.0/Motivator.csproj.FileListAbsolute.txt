@@ -1,0 +1,15 @@
+F:\340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\Motivator.deps.json
+F:\340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\Motivator.dll
+F:\340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\ref\Motivator.dll
+F:\340\Motivator\Motivator\Motivator\bin\Debug\netstandard2.0\Motivator.pdb
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.csproj.AssemblyReference.cache
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.GeneratedMSBuildEditorConfig.editorconfig
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.AssemblyInfoInputs.cache
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.AssemblyInfo.cs
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.csproj.CoreCompileInputs.cache
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\XamlC.stamp
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.dll
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\ref\Motivator.dll
+F:\340\Motivator\Motivator\Motivator\obj\Debug\netstandard2.0\Motivator.pdb
